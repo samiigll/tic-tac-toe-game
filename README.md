@@ -17,6 +17,7 @@ In the third part of the game, the colors chosen by the user are used in the gam
 When the game ends, in the case of a tie, players return to the beginning. If one side wins, they are redirected to a second page. Players can exit the game anytime using the "Exit" button.
 ## Contribution and Development
 Developers who want to contribute to the project can do so by forking the GitHub repository or by reporting issues, thus contributing to the project's development. Any feedback and suggestions will help further improve the project. The project is an open-source project developed by the community. We look forward to your participation!
+
 https://chat.openai.com/share/850bc992-31b3-4019-a9c4-606ac675743d 
 https://chat.openai.com/share/9941471c-105c-4cf1-ae12-ccb3f175b5c6
 https://chat.openai.com/share/9210f6f8-c21a-4458-99c5-ee14c6a91dc3
